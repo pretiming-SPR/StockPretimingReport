@@ -1,0 +1,20 @@
+{
+  "name": "Stock Pretiming Report",
+  "short_name": "SPR",
+  "start_url": "https://stockpretimingreport.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/Qx7BSN1P/Chat-GPT-Image-2025-8-2-06-38-20.png",
+      "sizes": "192x192",a
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Qx7BSN1P/Chat-GPT-Image-2025-8-2-06-38-20.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
